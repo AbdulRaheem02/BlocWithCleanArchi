@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "770541217550",
+    "project_id": "gothamtest-d109d",
+    "storage_bucket": "gothamtest-d109d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770541217550:android:7f8b347bd8d9271574d95f",
+        "android_client_info": {
+          "package_name": "com.example.blocwithcleanarchitecture"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnnS1dRxO9KPzUt7tiaQF85L4izf00hFc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
